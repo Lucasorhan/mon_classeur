@@ -1,2 +1,2 @@
 Voici une peinture de Frida Khalo qui represente son accident qu'elle a eu quand elle etait jeune.
-1C33E690-B57A-4749-B016-ABD4C5B7D6A5.jpeg
+![image](https://user-images.githubusercontent.com/112702825/188812775-f96d1a94-9cbb-4505-8f56-aadd621c688d.jpeg)
